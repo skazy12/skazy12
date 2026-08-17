@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skazy12
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning in UCB college
+- I’m interested in programming, data , IA
+- Systems Engineering graduate
 - 💞️ I’m looking to collaborate on idk xd
 
 
