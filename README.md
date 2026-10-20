@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skazy12
+- 👋 Hi, I’m Omar Gustavo Rodriguez Becerra alas (@skazy12)
 - I’m interested in programming, data , IA
 - Systems Engineering graduate
 - 💞️ I’m looking to collaborate on idk xd
